@@ -10,7 +10,6 @@
  * A simple class used in COM6516 lab class
  *
  */
-
 // this line of code declares the class
 public class FoodStore {
 
