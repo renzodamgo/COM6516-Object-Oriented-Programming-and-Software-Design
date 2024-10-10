@@ -41,7 +41,7 @@ public class FoodStore {
     }
 
     // these are accessor methods, which return the value of the instance field
-    public int getAmountStored() {
+    public static int getAmountStored() {
         return (amountStored);
     }
 
