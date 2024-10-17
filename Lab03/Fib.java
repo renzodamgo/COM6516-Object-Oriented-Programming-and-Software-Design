@@ -40,12 +40,12 @@ public class Fib {
 	// main
 	public static void main(String[] args) {
 		System.out.println("Iterative...");
-		for (int i = 1; i < 40; i++) {
+		for (int i = 1; i < 50; i++) {
 			System.out.println(i + ": " + fib(i));
 		}
 
 		System.out.println("\nRecursive...");
-		for (int i = 1; i < 40; i++) {
+		for (int i = 1; i < 50; i++) {
 			System.out.println(i + ": " + fibr(i));
 		}
 	}
